@@ -1,0 +1,6 @@
+
+venv/
+app_old/
+__pycache__/
+*.py[cod]
+.env
